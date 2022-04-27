@@ -4,7 +4,7 @@
 
 [**点击下载全部存档**](https://github.com/SxGndrSxltyEquality-WHU/SxGndrSxltyEquality-WHU.github.io/archive/refs/heads/main.zip)
 
-  本存档所含作品开放所有非商业授权，使用请署名 **@WHU性别性向平等研究会** 或 **@WHU性平会**。
+本存档所含作品开放所有非商业授权，使用请署名 <mark>**@WHU性别性向平等研究会</mark>** 或 **<mark>@WHU性平会</mark>**。
 
 ## 公众号文章
 
